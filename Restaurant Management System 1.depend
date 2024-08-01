@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719325318 source:c:\users\dell\desktop\umt\2nd semester\oop theory\restaurant management system 1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+
